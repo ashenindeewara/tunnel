@@ -1,3 +1,3 @@
 FROM ekzhang/bore
 
-ENTRYPOINT ["./bore server"]
+ENTRYPOINT ["./bore" "server"]
