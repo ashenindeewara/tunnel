@@ -1,3 +1,3 @@
-FROM ekzhang/bore:0.4.0
+FROM ekzhang/bore
 
 ENTRYPOINT ["./bore", "server"]
